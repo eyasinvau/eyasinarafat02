@@ -80,8 +80,8 @@ print  """
 \033[1;97m """ 
 
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Eyasin"
+CorrectPassword = "Eyasinbd"
 
 loop = 'true'
 while (loop == 'true'):
